@@ -1,0 +1,762 @@
+{
+  "period": "2026-11-20",
+  "source_as_of": "2026-11-19",
+  "site_index_sha256": "e758b42c450246c74b49b37b2aa15f623876adb5420bca860c03aca4d91116d7",
+  "generated_at": "2026-11-20T21:43:23+08:00",
+  "planned_entry": "2026-11-20",
+  "planned_end": "2026-11-30",
+  "universe": "main",
+  "selection": "composite rank 1-50",
+  "holdings": [
+    {
+      "ticker": "R",
+      "name_zh": "",
+      "name_en": "Ryder System Inc",
+      "rank": 1,
+      "composite": 99,
+      "themes": {
+        "value": 75,
+        "quality": 73,
+        "discipline": 98,
+        "momentum": 98,
+        "sentiment": 97
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "EQNR",
+      "name_zh": "挪威国家石油",
+      "name_en": "Equinor",
+      "rank": 2,
+      "composite": 99,
+      "themes": {
+        "value": 94,
+        "quality": 91,
+        "discipline": 93,
+        "momentum": 82,
+        "sentiment": 51
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "SU",
+      "name_zh": "",
+      "name_en": "Suncor Energy Inc",
+      "rank": 3,
+      "composite": 99,
+      "themes": {
+        "value": 90,
+        "quality": 74,
+        "discipline": 84,
+        "momentum": 79,
+        "sentiment": 84
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "COP",
+      "name_zh": "康菲",
+      "name_en": "ConocoPhillips",
+      "rank": 4,
+      "composite": 99,
+      "themes": {
+        "value": 85,
+        "quality": 80,
+        "discipline": 90,
+        "momentum": 91,
+        "sentiment": 63
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "ANF",
+      "name_zh": "",
+      "name_en": "Abercrombie & Fitch -CL A",
+      "rank": 5,
+      "composite": 99,
+      "themes": {
+        "value": 96,
+        "quality": 94,
+        "discipline": 80,
+        "momentum": 82,
+        "sentiment": 54
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "CART",
+      "name_zh": "",
+      "name_en": "Maplebear Inc",
+      "rank": 6,
+      "composite": 98,
+      "themes": {
+        "value": 68,
+        "quality": 98,
+        "discipline": 98,
+        "momentum": 86,
+        "sentiment": 52
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "CROX",
+      "name_zh": "",
+      "name_en": "Crocs Inc",
+      "rank": 7,
+      "composite": 98,
+      "themes": {
+        "value": 85,
+        "quality": 69,
+        "discipline": 97,
+        "momentum": 98,
+        "sentiment": 51
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "E",
+      "name_zh": "埃尼",
+      "name_en": "Eni",
+      "rank": 8,
+      "composite": 98,
+      "themes": {
+        "value": 97,
+        "quality": 57,
+        "discipline": 71,
+        "momentum": 89,
+        "sentiment": 85
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "THC",
+      "name_zh": "",
+      "name_en": "Tenet Healthcare Corp",
+      "rank": 9,
+      "composite": 98,
+      "themes": {
+        "value": 98,
+        "quality": 32,
+        "discipline": 92,
+        "momentum": 86,
+        "sentiment": 90
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "MAS",
+      "name_zh": "",
+      "name_en": "Masco Corp",
+      "rank": 10,
+      "composite": 98,
+      "themes": {
+        "value": 50,
+        "quality": 90,
+        "discipline": 94,
+        "momentum": 90,
+        "sentiment": 65
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "XOM",
+      "name_zh": "埃克森美孚",
+      "name_en": "Exxon Mobil",
+      "rank": 11,
+      "composite": 98,
+      "themes": {
+        "value": 83,
+        "quality": 74,
+        "discipline": 85,
+        "momentum": 81,
+        "sentiment": 63
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "PAYC",
+      "name_zh": "",
+      "name_en": "Paycom Software Inc",
+      "rank": 12,
+      "composite": 98,
+      "themes": {
+        "value": 57,
+        "quality": 87,
+        "discipline": 88,
+        "momentum": 90,
+        "sentiment": 64
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "MGA",
+      "name_zh": "",
+      "name_en": "Magna International Inc",
+      "rank": 13,
+      "composite": 98,
+      "themes": {
+        "value": 94,
+        "quality": 84,
+        "discipline": 98,
+        "momentum": 70,
+        "sentiment": 39
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "APA",
+      "name_zh": "",
+      "name_en": "APA Corp",
+      "rank": 14,
+      "composite": 97,
+      "themes": {
+        "value": 95,
+        "quality": 88,
+        "discipline": 95,
+        "momentum": 87,
+        "sentiment": 17
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "VLO",
+      "name_zh": "",
+      "name_en": "Valero Energy Corp",
+      "rank": 15,
+      "composite": 97,
+      "themes": {
+        "value": 92,
+        "quality": 84,
+        "discipline": 83,
+        "momentum": 71,
+        "sentiment": 52
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "FTI",
+      "name_zh": "",
+      "name_en": "Technipfmc PLC",
+      "rank": 16,
+      "composite": 97,
+      "themes": {
+        "value": 67,
+        "quality": 87,
+        "discipline": 93,
+        "momentum": 68,
+        "sentiment": 67
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "EOG",
+      "name_zh": "",
+      "name_en": "EOG Resources Inc",
+      "rank": 17,
+      "composite": 97,
+      "themes": {
+        "value": 92,
+        "quality": 92,
+        "discipline": 81,
+        "momentum": 91,
+        "sentiment": 24
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "DINO",
+      "name_zh": "",
+      "name_en": "HF Sinclair Corp",
+      "rank": 18,
+      "composite": 97,
+      "themes": {
+        "value": 98,
+        "quality": 60,
+        "discipline": 79,
+        "momentum": 67,
+        "sentiment": 75
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "SHEL",
+      "name_zh": "壳牌",
+      "name_en": "Shell",
+      "rank": 19,
+      "composite": 97,
+      "themes": {
+        "value": 97,
+        "quality": 64,
+        "discipline": 97,
+        "momentum": 82,
+        "sentiment": 38
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "ETSY",
+      "name_zh": "",
+      "name_en": "ETSY Inc",
+      "rank": 20,
+      "composite": 97,
+      "themes": {
+        "value": 79,
+        "quality": 75,
+        "discipline": 91,
+        "momentum": 79,
+        "sentiment": 54
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "FMX",
+      "name_zh": "",
+      "name_en": "Fomento Economico Mexicano",
+      "rank": 21,
+      "composite": 97,
+      "themes": {
+        "value": 82,
+        "quality": 81,
+        "discipline": 88,
+        "momentum": 97,
+        "sentiment": 28
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "BP",
+      "name_zh": "英国石油",
+      "name_en": "BP",
+      "rank": 22,
+      "composite": 97,
+      "themes": {
+        "value": 88,
+        "quality": 55,
+        "discipline": 66,
+        "momentum": 72,
+        "sentiment": 95
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "SWK",
+      "name_zh": "",
+      "name_en": "Stanley Black & Decker Inc",
+      "rank": 23,
+      "composite": 97,
+      "themes": {
+        "value": 81,
+        "quality": 53,
+        "discipline": 97,
+        "momentum": 95,
+        "sentiment": 49
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "CVX",
+      "name_zh": "雪佛龙",
+      "name_en": "Chevron",
+      "rank": 24,
+      "composite": 96,
+      "themes": {
+        "value": 87,
+        "quality": 73,
+        "discipline": 80,
+        "momentum": 87,
+        "sentiment": 46
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "COKE",
+      "name_zh": "",
+      "name_en": "Coca Cola Consolidated Inc",
+      "rank": 25,
+      "composite": 96,
+      "themes": {
+        "value": 42,
+        "quality": 91,
+        "discipline": 97,
+        "momentum": 86,
+        "sentiment": 56
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "AIT",
+      "name_zh": "",
+      "name_en": "Applied Industrial Tech Inc",
+      "rank": 26,
+      "composite": 96,
+      "themes": {
+        "value": 47,
+        "quality": 83,
+        "discipline": 88,
+        "momentum": 64,
+        "sentiment": 90
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "VRSN",
+      "name_zh": "",
+      "name_en": "Verisign Inc",
+      "rank": 27,
+      "composite": 96,
+      "themes": {
+        "value": 22,
+        "quality": 97,
+        "discipline": 76,
+        "momentum": 90,
+        "sentiment": 87
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "NICE",
+      "name_zh": "",
+      "name_en": "NICE LTD",
+      "rank": 28,
+      "composite": 96,
+      "themes": {
+        "value": 96,
+        "quality": 85,
+        "discipline": 91,
+        "momentum": 23,
+        "sentiment": 76
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "RL",
+      "name_zh": "",
+      "name_en": "Ralph Lauren Corp",
+      "rank": 29,
+      "composite": 96,
+      "themes": {
+        "value": 66,
+        "quality": 95,
+        "discipline": 87,
+        "momentum": 71,
+        "sentiment": 52
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "NUE",
+      "name_zh": "",
+      "name_en": "Nucor Corp",
+      "rank": 30,
+      "composite": 96,
+      "themes": {
+        "value": 80,
+        "quality": 50,
+        "discipline": 66,
+        "momentum": 95,
+        "sentiment": 80
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "SSD",
+      "name_zh": "",
+      "name_en": "Simpson Manufacturing Inc",
+      "rank": 31,
+      "composite": 96,
+      "themes": {
+        "value": 68,
+        "quality": 91,
+        "discipline": 85,
+        "momentum": 68,
+        "sentiment": 58
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "PSX",
+      "name_zh": "",
+      "name_en": "Phillips 66",
+      "rank": 32,
+      "composite": 96,
+      "themes": {
+        "value": 93,
+        "quality": 53,
+        "discipline": 55,
+        "momentum": 84,
+        "sentiment": 85
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "EXEL",
+      "name_zh": "",
+      "name_en": "Exelixis Inc",
+      "rank": 33,
+      "composite": 95,
+      "themes": {
+        "value": 70,
+        "quality": 98,
+        "discipline": 96,
+        "momentum": 92,
+        "sentiment": 13
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "KOF",
+      "name_zh": "",
+      "name_en": "Coca-cola Femsa Sab de CV",
+      "rank": 34,
+      "composite": 95,
+      "themes": {
+        "value": 84,
+        "quality": 84,
+        "discipline": 36,
+        "momentum": 97,
+        "sentiment": 68
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "MUSA",
+      "name_zh": "",
+      "name_en": "Murphy USA Inc",
+      "rank": 35,
+      "composite": 95,
+      "themes": {
+        "value": 78,
+        "quality": 84,
+        "discipline": 66,
+        "momentum": 72,
+        "sentiment": 67
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "IAG",
+      "name_zh": "",
+      "name_en": "Iamgold Corp",
+      "rank": 36,
+      "composite": 95,
+      "themes": {
+        "value": 96,
+        "quality": 85,
+        "discipline": 58,
+        "momentum": 34,
+        "sentiment": 93
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "NEM",
+      "name_zh": "纽蒙特",
+      "name_en": "Newmont",
+      "rank": 37,
+      "composite": 95,
+      "themes": {
+        "value": 82,
+        "quality": 89,
+        "discipline": 85,
+        "momentum": 51,
+        "sentiment": 58
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "TTE",
+      "name_zh": "",
+      "name_en": "Totalenergies SE",
+      "rank": 38,
+      "composite": 95,
+      "themes": {
+        "value": 97,
+        "quality": 63,
+        "discipline": 43,
+        "momentum": 88,
+        "sentiment": 73
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "CHRD",
+      "name_zh": "",
+      "name_en": "Chord Energy Corp",
+      "rank": 39,
+      "composite": 95,
+      "themes": {
+        "value": 98,
+        "quality": 77,
+        "discipline": 86,
+        "momentum": 88,
+        "sentiment": 14
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "CHE",
+      "name_zh": "",
+      "name_en": "Chemed Corp",
+      "rank": 40,
+      "composite": 95,
+      "themes": {
+        "value": 29,
+        "quality": 88,
+        "discipline": 84,
+        "momentum": 89,
+        "sentiment": 72
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "TTC",
+      "name_zh": "",
+      "name_en": "Toro Co",
+      "rank": 41,
+      "composite": 94,
+      "themes": {
+        "value": 59,
+        "quality": 92,
+        "discipline": 91,
+        "momentum": 96,
+        "sentiment": 22
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "ADT",
+      "name_zh": "",
+      "name_en": "ADT Inc",
+      "rank": 42,
+      "composite": 94,
+      "themes": {
+        "value": 69,
+        "quality": 55,
+        "discipline": 98,
+        "momentum": 57,
+        "sentiment": 80
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "ABNB",
+      "name_zh": "爱彼迎",
+      "name_en": "Airbnb",
+      "rank": 43,
+      "composite": 94,
+      "themes": {
+        "value": 33,
+        "quality": 92,
+        "discipline": 72,
+        "momentum": 92,
+        "sentiment": 70
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "EMBJ",
+      "name_zh": "",
+      "name_en": "Embraer SA",
+      "rank": 44,
+      "composite": 94,
+      "themes": {
+        "value": 64,
+        "quality": 63,
+        "discipline": 68,
+        "momentum": 66,
+        "sentiment": 98
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "DXCM",
+      "name_zh": "",
+      "name_en": "Dexcom Inc",
+      "rank": 45,
+      "composite": 94,
+      "themes": {
+        "value": 33,
+        "quality": 97,
+        "discipline": 95,
+        "momentum": 75,
+        "sentiment": 58
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "KEX",
+      "name_zh": "",
+      "name_en": "Kirby Corp",
+      "rank": 46,
+      "composite": 94,
+      "themes": {
+        "value": 79,
+        "quality": 44,
+        "discipline": 90,
+        "momentum": 58,
+        "sentiment": 87
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "OXY",
+      "name_zh": "西方石油",
+      "name_en": "Occidental",
+      "rank": 47,
+      "composite": 94,
+      "themes": {
+        "value": 96,
+        "quality": 61,
+        "discipline": 69,
+        "momentum": 72,
+        "sentiment": 59
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "RELX",
+      "name_zh": "励讯集团",
+      "name_en": "RELX",
+      "rank": 48,
+      "composite": 94,
+      "themes": {
+        "value": 49,
+        "quality": 77,
+        "discipline": 93,
+        "momentum": 46,
+        "sentiment": 92
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "WST",
+      "name_zh": "",
+      "name_en": "West Pharmaceutical Svsc Inc",
+      "rank": 49,
+      "composite": 94,
+      "themes": {
+        "value": 11,
+        "quality": 74,
+        "discipline": 88,
+        "momentum": 97,
+        "sentiment": 87
+      },
+      "weight": 0.02
+    },
+    {
+      "ticker": "BWA",
+      "name_zh": "",
+      "name_en": "Borgwarner Inc",
+      "rank": 50,
+      "composite": 93,
+      "themes": {
+        "value": 90,
+        "quality": 80,
+        "discipline": 94,
+        "momentum": 37,
+        "sentiment": 55
+      },
+      "weight": 0.02
+    }
+  ]
+}
